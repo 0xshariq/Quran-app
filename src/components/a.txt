@@ -1,0 +1,3 @@
+https://api.alquran.cloud/v1/surah/112/en.asad       
+https://api.alquran.cloud/v1/surah/114/ar.alafasy    
+https://api.alquran.cloud/v1/ayah/2620/en.asad
